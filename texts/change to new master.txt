@@ -1,0 +1,4 @@
+git checkout "new"
+git rebase master
+fix conflict and commit
+git rebase --continue

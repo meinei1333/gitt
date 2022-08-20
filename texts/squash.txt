@@ -1,0 +1,6 @@
+git rebase --interactive HEAD~2
+pick one
+vim :wq(esc tab)
+squash
+
+git rebase --abort
